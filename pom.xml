@@ -39,7 +39,7 @@
     <blog-application.version>9.15.9</blog-application.version>
     <macro-pdf.version>2.7.3</macro-pdf.version>
     <xwiki-pro.version>15.10.1</xwiki-pro.version>
-    <mocca.version>2.19.1</mocca.version>
+    <mocca.version>2.20.0</mocca.version>
     <macrofullcalendar.version>2.5.4</macrofullcalendar.version>
     <!--  Needed for Latex dependency coming from XWiki Pro  -->
     <dockerJava.version>3.7.1</dockerJava.version>
